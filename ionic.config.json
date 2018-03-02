@@ -1,0 +1,8 @@
+{
+  "name": "pyp2",
+  "app_id": "4d5f38a3",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
